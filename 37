@@ -1,0 +1,13 @@
+{
+    "id": 37,
+    "name": "4th of July 2022 - Collector's Edition",
+    "image": "https://ipfs.ovt.app/ipfs/bafybeib53reojo2cpvl255vivum7cbmqwcc6oz4ejc4ro7c2qhcu2kne54/42.jpg",
+    "description": "Just put all those troubles behind you and enjoy a BBQ in the most American way possible! This party has it all!",
+    "external_url": "https://ovt.app/",
+    "attributes": [
+      { "trait_type": "Collection", "value": "Founders" },
+      { "trait_type": "Card Type", "value": "4th of July" },
+      { "trait_type": "Artist", "value": "@ipunkherlambang" },
+      { "trait_type": "Special Edition", "value": "Collectors" }
+    ]
+  }

@@ -1,0 +1,13 @@
+{
+    "id": 30,
+    "name": "Superhero Dad - Collector's Edition",
+    "image": "https://ipfs.ovt.app/ipfs/QmShxHXpfXERXzQ9xYpqPQQQd7T8MqjnmMBgDWwYefa2dx/30.jpg",
+    "description": "Dad get's home at night and to his kids he is a a superhero. A child sees their father as invincible and capable of anything. Give back to your dad with this Father's Day Card.",
+    "external_url": "https://ovt.app/",
+    "attributes": [
+      { "trait_type": "Collection", "value": "Founders" },
+      { "trait_type": "Card Type", "value": "Father's Day" },
+      { "trait_type": "Artist", "value": "@ipunkherlambang" },
+      { "trait_type": "Special Edition", "value": "Collectors" }
+    ]
+  }

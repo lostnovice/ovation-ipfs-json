@@ -1,0 +1,25 @@
+{
+  "id": 25,
+  "name": "Saint Nick's Trip",
+  "image": "ipfs://bafybeie5rskb56bjlcw2huunjql6qo4p4letkr3qdjipid6zvvzi52lgaq/25.jpg",
+  "description": "Saint Nick is coming to celebrate the Christmas season. He brings presents and cheer while he checks over the Christmas tree.",
+  "external_url": "https://ovt.app/",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Founders"
+    },
+    {
+      "trait_type": "Card Type",
+      "value": "Christmas"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "@indraprastika"
+    },
+    {
+      "trait_type": "Special Edition",
+      "value": "Standard"
+    }
+  ]
+}

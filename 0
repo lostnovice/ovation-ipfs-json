@@ -1,0 +1,25 @@
+{
+  "id": 0,
+  "name": "Team OVT Genesis Token",
+  "image": "https://ipfs.ovt.app/ipfs/QmaAFVxVPskWdS94LRJ6GjfqnAfeZYJykLt3UeidAMWrtQ/0.png",
+  "description": "This is the first OVT token that the Ovation team minted to initialize our OpenSea page. It will forever be held in our multisig address.",
+  "external_url": "https://ovt.app/",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Card Type",
+      "value": "Unique"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Team OVT"
+    },
+    {
+      "trait_type": "Special Edition",
+      "value": "Genesis"
+    }
+  ]
+}

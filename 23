@@ -1,0 +1,25 @@
+{
+  "id": 23,
+  "name": "Pumpkin Ceremony",
+  "image": "ipfs://bafybeiere2b4wnpyzptrbkip4yu4i6d52pfs5epwhlibe7lxnrx7xgnrv4/23.jpg",
+  "description": "Ghosts congregate around candy ceremoniously, summoning the squash on All Hallow's Eve.",
+  "external_url": "https://ovt.app/",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Founders"
+    },
+    {
+      "trait_type": "Card Type",
+      "value": "Halloween"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "@indraprastika"
+    },
+    {
+      "trait_type": "Special Edition",
+      "value": "Standard"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 10,
+  "name": "Jammin' Jukebox - Collector's Edition",
+  "image": "ipfs://bafybeidpbzmr2ctqkhqgw4ynb7uoqqsjpejh5hksx33nmzswt3fnap2wja/10.jpg",
+  "description": "The jukebox is jammin' and sharing good vibes for everyone. Pick your favorite tune and get ready to boogie.",
+  "external_url": "https://ovt.app/",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Founders"
+    },
+    {
+      "trait_type": "Card Type",
+      "value": "Celebratory"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "@indraprastika"
+    },
+    {
+      "trait_type": "Special Edition",
+      "value": "Collectors"
+    }
+  ]
+}

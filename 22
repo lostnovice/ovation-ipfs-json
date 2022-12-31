@@ -1,0 +1,25 @@
+{
+  "id": 22,
+  "name": "The Clown Party",
+  "image": "ipfs://bafybeihncriq2qkx5v7oj2dcsmephxq3eyegsnays4lws4bvbkdy63bxku/22.jpg",
+  "description": "The King Clown and his gingerbread posse are throwing a birthday party. Enjoy the special day with the clown and his friends.",
+  "external_url": "https://ovt.app/",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Founders"
+    },
+    {
+      "trait_type": "Card Type",
+      "value": "Birthday"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "@indraprastika"
+    },
+    {
+      "trait_type": "Special Edition",
+      "value": "Standard"
+    }
+  ]
+}

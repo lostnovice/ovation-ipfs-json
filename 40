@@ -1,0 +1,13 @@
+{
+    "id": 40,
+    "name": "Darling's Flowers - Airdrop Edition",
+    "image": "https://ipfs.ovt.app/ipfs/bafybeid3dcettwgmhbt5f3qawn2a4ndhmdfzgvia6xd6lf3lkokrgrtqym/GWS%20Red.png",
+    "description": "Flowers have a way of setting things right. Darling picked these flowers just for you and wants you to know someone cares about you.",
+    "external_url": "https://ovt.app/",
+    "attributes": [
+      { "trait_type": "Collection", "value": "Founders" },
+      { "trait_type": "Card Type", "value": "Get Well Soon" },
+      { "trait_type": "Artist", "value": "@bunnibibo" },
+      { "trait_type": "Special Edition", "value": "Airdrop" }
+    ]
+  }

@@ -1,0 +1,25 @@
+{
+  "id": 18,
+  "name": "Darling's Flowers",
+  "image": "ipfs://bafybeif7jxo3omhym2pp7v5sxyaa3gubppkktspmnpt2a4tbemjd54gyje/18.jpg",
+  "description": "Flowers have a way of setting things right. Darling picked these flowers just for you and wants you to know someone cares about you.",
+  "external_url": "https://ovt.app/",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Founders"
+    },
+    {
+      "trait_type": "Card Type",
+      "value": "Get Well Soon"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "@bunnibibo"
+    },
+    {
+      "trait_type": "Special Edition",
+      "value": "Standard"
+    }
+  ]
+}

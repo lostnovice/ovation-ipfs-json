@@ -1,0 +1,13 @@
+{
+    "id": 35,
+    "name": "Benedict Wins - Airdrop Edition",
+    "image": "https://ipfs.ovt.app/ipfs/QmYsLR3i7GU8qUAoigSbWYLkjYysR6mR7RkuNeksahkNzC/35.png",
+    "description": "You did it! Benedict is happy to be on the winning team and flap her little chicky wings from atop the trophy.",
+    "external_url": "https://ovt.app/",
+    "attributes": [
+      { "trait_type": "Collection", "value": "Founders" },
+      { "trait_type": "Card Type", "value": "Congratulations" },
+      { "trait_type": "Artist", "value": "@bunnibibo" },
+      { "trait_type": "Special Edition", "value": "Airdrop" }
+    ]
+  }

@@ -1,0 +1,25 @@
+{
+  "id": 26,
+  "name": "Land on Your Feet",
+  "image": "ipfs://bafybeid76gx7kwo2rfc7jxif7fgnrmpats2mtlqzf26d2r5mqrq7nbbv6e/26.jpg",
+  "description": "Life can be tough but with 9 lives this kitty is ready for another go around. Get well soon and get back to scratchin!",
+  "external_url": "https://ovt.app/",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Founders"
+    },
+    {
+      "trait_type": "Card Type",
+      "value": "Get Well Soon"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "@biscuitrie"
+    },
+    {
+      "trait_type": "Special Edition",
+      "value": "Standard"
+    }
+  ]
+}

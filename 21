@@ -1,0 +1,25 @@
+{
+  "id": 21,
+  "name": "Laumoy is Floating",
+  "image": "ipfs://bafybeifp3swgobgy3tupnp425wppesdxgglo5s3gr6gx5pdoea4xxowtyy/21.jpg",
+  "description": "Love is in the air! It's a beautiful feeling and sometimes you feel like you're floating away. Laumoy might have gotten too many balloons.",
+  "external_url": "https://ovt.app/",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Founders"
+    },
+    {
+      "trait_type": "Card Type",
+      "value": "Valentines"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "@bunnibibo"
+    },
+    {
+      "trait_type": "Special Edition",
+      "value": "Standard"
+    }
+  ]
+}

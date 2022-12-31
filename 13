@@ -1,0 +1,25 @@
+{
+  "id": 13,
+  "name": "Dance of the Firefly - Collector's Edition",
+  "image": "ipfs://bafybeiegd554ovq77uvg5jbhucxscmxmpqqgfkomwb7nonlbnhfafahpd4/13.jpg",
+  "description": "The firefly puts on a display for little piggy. Even the smallest spark, can be like a star. Keep up the good work!",
+  "external_url": "https://ovt.app/",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Founders"
+    },
+    {
+      "trait_type": "Card Type",
+      "value": "Celebratory"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "@biscuitrie"
+    },
+    {
+      "trait_type": "Special Edition",
+      "value": "Collectors"
+    }
+  ]
+}

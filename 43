@@ -1,0 +1,13 @@
+{
+    "id": 43,
+    "name": "Grattan's Birthday Cake - Airdrop Edition",
+    "image": "https://ipfs.ovt.app/ipfs/QmaAFVxVPskWdS94LRJ6GjfqnAfeZYJykLt3UeidAMWrtQ/2.png",
+    "description": "Grattan the bear has a very special cake made for someone's birthday. She brought some sparklers to celebrate too!",
+    "external_url": "https://ovt.app/",
+    "attributes": [
+      { "trait_type": "Collection", "value": "Founders" },
+      { "trait_type": "Card Type", "value": "Birthday" },
+      { "trait_type": "Artist", "value": "@bunnibibo" },
+      { "trait_type": "Special Edition", "value": "Airdrop" }
+    ]
+  }
