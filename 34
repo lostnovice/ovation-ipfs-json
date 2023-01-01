@@ -1,13 +1,25 @@
- {
-    "id": 34,
-    "name": "Superhero Dad - Airdrop Edition",
-    "image": "https://ipfs.ovt.app/ipfs/QmYsLR3i7GU8qUAoigSbWYLkjYysR6mR7RkuNeksahkNzC/34.jpg",
-    "description": "Dad get's home at night and to his kids he is a a superhero. A child sees their father as invincible and capable of anything. Give back to your dad with this Father's Day Card.",
-    "external_url": "https://ovt.app/",
-    "attributes": [
-      { "trait_type": "Collection", "value": "Founders" },
-      { "trait_type": "Card Type", "value": "Father's Day" },
-      { "trait_type": "Artist", "value": "@ipunkherlambang" },
-      { "trait_type": "Special Edition", "value": "Airdrop" }
-    ]
-  }
+{
+  "id": 34,
+  "name": "Superhero Dad - Airdrop Edition",
+  "image": "ipfs://bafkreic5zbsrys5lshybrc77ifhvo7tx5ds3c77ip2oikbmxdrtr6jzp3i",
+  "description": "Dad get's home at night and to his kids he is a a superhero. A child sees their father as invincible and capable of anything. Give back to your dad with this Father's Day Card.",
+  "external_url": "https://ovt.app/",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Founders"
+    },
+    {
+      "trait_type": "Card Type",
+      "value": "Father's Day"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "@ipunkherlambang"
+    },
+    {
+      "trait_type": "Special Edition",
+      "value": "Airdrop"
+    }
+  ]
+}

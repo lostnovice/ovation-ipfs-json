@@ -1,7 +1,7 @@
 {
-  "id": 23,
-  "name": "Pumpkin Ceremony",
-  "image": "ipfs://bafkreibuaqxe7frgk4dup3qlmoz66w3z74dnqymif6siwp6lqh5banl6ju",
+  "id": 46,
+  "name": "Pumpkin Ceremony - Airdrop Edition",
+  "image": "ipfs://bafkreibcst3wc7ujnc2j4hcihytqxd6xhlz64lkding753pzllxwymmum4",
   "description": "Ghosts congregate around candy ceremoniously, summoning the squash on All Hallow's Eve.",
   "external_url": "https://ovt.app/",
   "attributes": [
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Special Edition",
-      "value": "Standard"
+      "value": "Airdrop"
     }
   ]
 }

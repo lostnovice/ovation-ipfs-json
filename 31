@@ -1,13 +1,25 @@
 {
-    "id": 31,
-    "name": "Fatherhood is Timeless",
-    "image": "https://ipfs.ovt.app/ipfs/QmShxHXpfXERXzQ9xYpqPQQQd7T8MqjnmMBgDWwYefa2dx/31.jpg",
-    "description": "Every little chimp looks up to his father. Bigfoot wanders with his son through the forest  at night, teaching him everything along the way.",
-    "external_url": "https://ovt.app/",
-    "attributes": [
-      { "trait_type": "Collection", "value": "Founders" },
-      { "trait_type": "Card Type", "value": "Father's Day" },
-      { "trait_type": "Artist", "value": "@Kushwaha" },
-      { "trait_type": "Special Edition", "value": "Standard" }
-    ]
-  }
+  "id": 31,
+  "name": "Fatherhood is Timeless",
+  "image": "ipfs://bafkreia6lmdxflour4rheahej555hql33f46sbxd65e6anyzljoijywupe",
+  "description": "Every little chimp looks up to his father. Bigfoot wanders with his son through the forest  at night, teaching him everything along the way.",
+  "external_url": "https://ovt.app/",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Founders"
+    },
+    {
+      "trait_type": "Card Type",
+      "value": "Father's Day"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "@Kushwaha"
+    },
+    {
+      "trait_type": "Special Edition",
+      "value": "Standard"
+    }
+  ]
+}

@@ -1,13 +1,25 @@
- {
-    "id": 42,
-    "name": "4th of July 2022 - Airdrop Edition",
-    "image": "https://ipfs.ovt.app/ipfs/bafybeiebngv4loltaeuqy2jmz6t55yya34tekyki5flk7thl3lqq2xx7ea/43.jpg",
-    "description": "Just put all those troubles behind you and enjoy a BBQ in the most American way possible! This party has it all!",
-    "external_url": "https://ovt.app/",
-    "attributes": [
-      { "trait_type": "Collection", "value": "Founders" },
-      { "trait_type": "Card Type", "value": "4th of July" },
-      { "trait_type": "Artist", "value": "@ipunkherlambang" },
-      { "trait_type": "Special Edition", "value": "Airdrop" }
-    ]
-  }
+{
+  "id": 42,
+  "name": "4th of July 2022 - Airdrop Edition",
+  "image": "ipfs://bafkreieszbf3puutj2bugz766utwdgdgalvikbjruyp6j5tuzvgcstceoy",
+  "description": "Just put all those troubles behind you and enjoy a BBQ in the most American way possible! This party has it all!",
+  "external_url": "https://ovt.app/",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Founders"
+    },
+    {
+      "trait_type": "Card Type",
+      "value": "4th of July"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "@ipunkherlambang"
+    },
+    {
+      "trait_type": "Special Edition",
+      "value": "Airdrop"
+    }
+  ]
+}

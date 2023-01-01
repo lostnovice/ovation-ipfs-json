@@ -1,13 +1,25 @@
 {
-    "id": 41,
-    "name": "Marin's Birthday Cake - Airdrop Edition",
-    "image": "https://ipfs.ovt.app/ipfs/QmQDFqJKxMEF5NKEuhcabdsao6B1NwM2v2Lw8mGQdneX61/41.png",
-    "description": "Marin made a birthday cake! Chocolate with cream frosting, to celebrate a very special birthday. He hopes you love it!",
-    "external_url": "https://ovt.app/",
-    "attributes": [
-      { "trait_type": "Collection", "value": "Founders" },
-      { "trait_type": "Card Type", "value": "Birthday" },
-      { "trait_type": "Artist", "value": "@bunnibibo" },
-      { "trait_type": "Special Edition", "value": "Airdrop" }
-    ]
-  }
+  "id": 41,
+  "name": "Marin's Birthday Cake - Airdrop Edition",
+  "image": "ipfs://bafkreignkmyflpl4y657dhwpuzizkcijyvnsznnolvaccgas73ijkymwgq",
+  "description": "Marin made a birthday cake! Chocolate with cream frosting, to celebrate a very special birthday. He hopes you love it!",
+  "external_url": "https://ovt.app/",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Founders"
+    },
+    {
+      "trait_type": "Card Type",
+      "value": "Birthday"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "@bunnibibo"
+    },
+    {
+      "trait_type": "Special Edition",
+      "value": "Airdrop"
+    }
+  ]
+}

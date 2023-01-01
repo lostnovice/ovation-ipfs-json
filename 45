@@ -1,7 +1,7 @@
 {
-  "id": 22,
-  "name": "The Clown Party",
-  "image": "ipfs://bafkreihnvnlyacggthsryrifgwgofa4mae252n25oejb63guzvq7t4xa4q",
+  "id": 45,
+  "name": "The Clown Party - Airdrop Edition",
+  "image": "ipfs://bafkreicf6c6mb3mhektud6fxxapncziyed7rapjmoeszfma7gvro5zgnp4",
   "description": "The King Clown and his gingerbread posse are throwing a birthday party. Enjoy the special day with the clown and his friends.",
   "external_url": "https://ovt.app/",
   "attributes": [
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Special Edition",
-      "value": "Standard"
+      "value": "Airdrop"
     }
   ]
 }
