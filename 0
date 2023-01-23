@@ -1,7 +1,7 @@
 {
   "id": 0,
   "name": "Team OVT Genesis Token",
-  "image": "https://ipfs.ovt.app/ipfs/QmaAFVxVPskWdS94LRJ6GjfqnAfeZYJykLt3UeidAMWrtQ/0.png",
+  "image": "ipfs://bafybeiaom473z3o7hs3frt3yodbewxpzfgqoy5w26klss34mp6irmuiuau",
   "description": "This is the first OVT token that the Ovation team minted to initialize our OpenSea page. It will forever be held in our multisig address.",
   "external_url": "https://ovt.app/",
   "attributes": [
